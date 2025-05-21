@@ -20,6 +20,9 @@
 include:
   - board: nice_nano_v2
     shield: sof_left
+    artifact-name: left
   - board: nice_nano_v2
     shield: sof_right
-    artifact-name: sof-uft
+    artifact-name: right
+  - board: nice_nano_v2
+    shield: reset
